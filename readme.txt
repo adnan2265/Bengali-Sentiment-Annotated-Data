@@ -11,5 +11,5 @@ Size: 20,000 Bengali sentences (5,000 per sentiment class)
 
 Please cite this paper for using the dataset:
 
-M. S. H. Mukta, M. A. Islam, et al., "A Comprehensive Guideline for Bengali Sentiment Annotation", ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2021.
+Md. Saddam Hossain Mukta, Md. Adnanul Islam, Faisal Ahamed Khan, Afjal Hossain, Shuvanon Razik, Shazzad Hossain, and Jalal Mahmud. 2021. A Comprehensive Guideline for Bengali Sentiment Annotation. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 21, 2, Article 30 (October 2021), 19 pages. https://doi.org/10.1145/3474363
 
